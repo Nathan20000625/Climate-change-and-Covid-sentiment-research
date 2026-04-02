@@ -1,0 +1,17 @@
+direction,emotion,ecm_coefficient,ecm_pvalue,short_run_coefficient,short_run_pvalue,long_run_coefficient,long_run_pvalue
+forward,ANGER,-0.433,0,0.143,0.002,0.259,0.001
+forward,ANTICIPATION,-0.503,0,0.169,0.193,0.016,0.917
+forward,DISGUST,-0.554,0,0.233,0.003,0.38,0
+forward,FEAR,-0.323,0,0.254,0.037,0.258,0.147
+forward,JOY,-0.514,0,0.22,0.145,0.099,0.677
+forward,SADNESS,-0.507,0,0.195,0.021,0.406,0
+forward,SURPRISE,-0.496,0,0.107,0.168,0.523,0
+forward,TRUST,-0.321,0,0.173,0.013,0.585,0
+reverse,ANGER,-0.179,0,0.07,0.001,0.347,0.044
+reverse,ANTICIPATION,-0.12,0,0.02,0.157,0.127,0.392
+reverse,DISGUST,-0.147,0,0.046,0.016,0.275,0.007
+reverse,FEAR,-0.188,0,0.025,0.029,0.105,0.096
+reverse,JOY,-0.118,0,0.012,0.178,0.079,0.369
+reverse,SADNESS,-0.256,0,0.072,0.023,0.429,0.002
+reverse,SURPRISE,-0.281,0,0.066,0.095,0.28,0.156
+reverse,TRUST,-0.119,0,0.041,0.032,0.32,0.075
